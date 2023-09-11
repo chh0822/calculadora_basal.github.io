@@ -13,10 +13,23 @@ body{
     font-family: 'Montserrat', sans-serif;
     color: #3E363F;
 
-    border-radius: 10px;
+    border-radius: 20px;
     overflow: hidden; 
     box-shadow: 0 14px 38px rgba(0,0,0,0.25), 
     0 10px 25px rgba(0,0,0,0.22);
+}
+#peso{
+    height: 30px;
+
+}
+
+#calcular{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    font-weight: bold;
+    background: #ff678a;
+    color: #f6f5f7;
 }
 #calculadora{
     background: white;
