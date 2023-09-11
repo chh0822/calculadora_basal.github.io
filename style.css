@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
 
 body{
-    background: #ffdde6;
+    background-image: url('fondo.jpg');
 }
 #contenedor{
     width: 900px;
@@ -28,7 +28,7 @@ body{
     height: 40px;
     border-radius: 10px;
     font-weight: bold;
-    background: #ff678a;
+    background: #ff7a99;
     color: #f6f5f7;
 }
 #calculadora{
@@ -39,7 +39,7 @@ body{
     float: left;
 }
 #detalle{
-    background: #ff678a;
+    background: #ff7a99;
     /* Con estas 3 lineas vamos a hacer que los divs queden lado a lado */
     width: 50%;
     height: 100%;
